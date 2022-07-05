@@ -1,1 +1,2 @@
-*https://github.com/mitsuyoshi-yamazaki/mitsuyoshi-yamazaki.github.io へ移動*
+deprecated
+see: https://github.com/mitsuyoshi-yamazaki/mitsuyoshi-yamazaki.github.io
